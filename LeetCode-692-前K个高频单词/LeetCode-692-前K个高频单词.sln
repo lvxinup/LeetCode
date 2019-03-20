@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode-692-前K个高频单词", "LeetCode-692-前K个高频单词\LeetCode-692-前K个高频单词.vcxproj", "{8865ADFC-1F69-4E0A-8030-112C225E3F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8865ADFC-1F69-4E0A-8030-112C225E3F6F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8865ADFC-1F69-4E0A-8030-112C225E3F6F}.Debug|Win32.Build.0 = Debug|Win32
+		{8865ADFC-1F69-4E0A-8030-112C225E3F6F}.Release|Win32.ActiveCfg = Release|Win32
+		{8865ADFC-1F69-4E0A-8030-112C225E3F6F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
