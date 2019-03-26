@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode-713-乘积小于k的子数组", "LeetCode-713-乘积小于k的子数组\LeetCode-713-乘积小于k的子数组.vcxproj", "{40002BC2-DD4F-4FE8-BB28-992C578B45FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40002BC2-DD4F-4FE8-BB28-992C578B45FF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40002BC2-DD4F-4FE8-BB28-992C578B45FF}.Debug|Win32.Build.0 = Debug|Win32
+		{40002BC2-DD4F-4FE8-BB28-992C578B45FF}.Release|Win32.ActiveCfg = Release|Win32
+		{40002BC2-DD4F-4FE8-BB28-992C578B45FF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
