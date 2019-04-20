@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "算法学习-完美立方数", "算法学习-完美立方数\算法学习-完美立方数.vcxproj", "{A69FF98E-294A-4837-8EB9-72AEBE4C7DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A69FF98E-294A-4837-8EB9-72AEBE4C7DFF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A69FF98E-294A-4837-8EB9-72AEBE4C7DFF}.Debug|Win32.Build.0 = Debug|Win32
+		{A69FF98E-294A-4837-8EB9-72AEBE4C7DFF}.Release|Win32.ActiveCfg = Release|Win32
+		{A69FF98E-294A-4837-8EB9-72AEBE4C7DFF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
