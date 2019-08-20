@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{6C118C85-884D-48D4-A249-DDF99340902E}</ProjectGuid>
-    <RootNamespace>LeetCode33搜索旋转数组</RootNamespace>
+    <ProjectGuid>{FF8EB30D-BE6C-486D-8CC4-A3841A36D42E}</ProjectGuid>
+    <RootNamespace>LeetCode739每日温度</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
